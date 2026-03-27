@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-from deep_translator import GoogleTranslator  # ✅ Библиотека для перевода
+from deep_translator import GoogleTranslator  
 
 
 def get_inglish_words():
